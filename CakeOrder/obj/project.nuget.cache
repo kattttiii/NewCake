@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W719CNldHGnyXjHCZP0KMuo84T1duwIMcPVP7O4QEg0YdF+bqE11bRxrFbJ6o56Xmgm5w/MXyHClSBidUm/jZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilyaS\\Downloads\\cake\\CakeOrderApp\\CakeOrder\\CakeOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilyaS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
